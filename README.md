@@ -1,5 +1,5 @@
 # Moral Vector Analyzer
-
+Working share link in Gemini: https://gemini.google.com/share/79f3147a1997
 > **"Imagine morality is a physical force like gravity. Based on the deep, instinctual patterns in human history, how 'heavy' is the sin of this action?"**
 
 This repository contains a React-based interactive widget that explores moral philosophy using a novel **Cartesian Vector Framework**.
