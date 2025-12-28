@@ -70,7 +70,7 @@ You need a Google Gemini API Key. Get one at Google AI Studio.
 1. Clone the repo:
 
    ```bash
-   git clone [https://github.com/yourusername/moral-vector-analyzer.git](https://github.com/yourusername/moral-vector-analyzer.git)
+   git clone [https://github.com/maxchelminski/moral-vector-analyzer.git](https://github.com/maxchelminski/moral-vector-analyzer.git)
 
 2. Install dependencies:
 
